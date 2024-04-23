@@ -5,7 +5,6 @@ Portfolio simulation using Monte Carlo
 ## Topics learned in this project
 
 - stock candles
--
 - close prices
 - Cholesky decompostion
 - percentage change
